@@ -42,7 +42,7 @@ Eglantine's Strava export, with kudos added by hand: 178 public runs from March 
 
 ## Dashboard
 
-The team also built **My Strava**, an interactive running dashboard that presents the results, shown in the final presentation.
+The team also built **My Strava**, an interactive running dashboard that presents the results: [strava-dashboard-lovat-one.vercel.app/kudos](https://strava-dashboard-lovat-one.vercel.app/kudos)
 
 ## Files
 
