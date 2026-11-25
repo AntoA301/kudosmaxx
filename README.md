@@ -40,6 +40,10 @@ Eglantine's Strava export, with kudos added by hand: 178 public runs from March 
 | H6 Weekend | Not supported once distance is controlled |
 | H7 Personal record | Not supported |
 
+## Dashboard
+
+The team also built **My Strava**, an interactive running dashboard that presents the results, shown in the final presentation.
+
 ## Files
 
 - `KudosMaxx_Parts_1_5.ipynb`: the full analysis, with outputs.
